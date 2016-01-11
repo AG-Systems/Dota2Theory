@@ -42,47 +42,7 @@ li:hover {
   background: #D6655F;
   cursor: pointer;
 }
-/* 2 */
-* {margin: 0; padding: 0;}
 
-.character-select2
-{
-  margin: 20px;
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  background-color: black;
-  opacity: 0.5;
-  transform: translate(-50%, -50%);
-}
-
-ul {
-  list-style-type: none;
-  width: 500px;
-}
-
-h3 {
-  font: bold 20px/1.5 Helvetica, Verdana, sans-serif;
-}
-
-li img {
-  float: left;
-  margin: 0 15px 0 0;
-}
-
-li p {
-  font: 200 12px/1.5 Georgia, Times New Roman, serif;
-}
-
-li {
-  padding: 10px;
-  overflow: auto;
-}
-
-li:hover {
-  background: #D6655F;
-  cursor: pointer;
-}
 /* css menu */
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:700);
 #cssmenu {
