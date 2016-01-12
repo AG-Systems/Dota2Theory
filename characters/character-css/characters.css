@@ -225,3 +225,48 @@ body a
   width:1200px;
   height:160px;
 }
+#levelq
+{
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    top: 45%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    background-image: url("kb-icons/q.png");
+}
+#levelw
+{
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    top: 45%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    background-image: url("kb-icons/w.png");
+}
+#levele
+{
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-image: url("kb-icons/e.png");
+}
+#levelr
+{
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    top: 45%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    background-image: url("kb-icons/r.png");
+}
+body
+{
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}

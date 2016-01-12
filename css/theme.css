@@ -176,3 +176,8 @@ body a
 {
   color: #000000;
 }
+body
+{
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
