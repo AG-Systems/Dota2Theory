@@ -8,3 +8,4 @@
 
 ![Current look](http://i.imgur.com/XuTAs5V.jpg)
 
+Current status[On hold or scrapped]
